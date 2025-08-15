@@ -19,23 +19,23 @@ export const meta: Route.MetaFunction = () => [
       "RepoFinder helps you instantly search, explore, and discover GitHub repositories by name, keyword, or topic.",
   },
   { property: "og:type", content: "website" },
-  { property: "og:url", content: "https://repofinder.com" },
+  { property: "og:url", content: "https://repofinder-phi.vercel.app/" },
   { property: "og:title", content: "RepoFinder – Find the perfect GitHub repo fast" },
   {
     property: "og:description",
     content:
       "Instantly search and explore GitHub repositories. Filter by name, topic, or stars to find your next project.",
   },
-  { property: "og:image", content: "https://repofinder.com/og-image.png" },
+  { property: "og:image", content: "https://repofinder-phi.vercel.app//og-image.png" },
   { name: "twitter:card", content: "summary_large_image" },
-  { name: "twitter:url", content: "https://repofinder.com" },
+  { name: "twitter:url", content: "https://https://repofinder-phi.vercel.app/" },
   { name: "twitter:title", content: "RepoFinder – Find the perfect GitHub repo fast" },
   {
     name: "twitter:description",
     content:
       "Instantly search and explore GitHub repositories. Filter by name, topic, or stars to find your next project.",
   },
-  { name: "twitter:image", content: "https://repofinder.com/og-image.png" },
+  { name: "twitter:image", content: "https://repofinder-phi.vercel.app//og-image.png" },
 ];
 
 // ---------- Fonts & Styles ----------
